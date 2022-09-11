@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body{
+    background-size: auto;
+   
+}
+.navbar-brand span{
+    color: black;
+    font-family: "Sandserif";
+    font-size: 35px;
+}
+
+.h4{
+    font-size: 25px;
+    font-family: "Sandserif";
+ 
+}
+
+span{
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+    font-family: "Sandserif";
+}
+
+h3{
+    border-radius: 5px;
+}
+
+img{
+    width: 100px;
+    height: 80px;
+}
+
+.nav-item{
+    padding: 5px ;
+}
+
+
+.card{
+    width: 300px;
+    height: 400px;
+}
+.card-title{
+    font-family: "Sandserif";
+}
+
+
+.card-img-top{
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}
+
+.table-hover {
+    width: 90%;
+    margin: 30px auto;
+}
+
+.itemCartTotal {
+    width: 50%;
+    margin: 0px auto;
+}
+

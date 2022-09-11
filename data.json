@@ -1,0 +1,17 @@
+
+
+[
+    {
+        "nombre": "Burger Clasica",
+    "precio": "1000"
+
+    },
+    {
+        "nombre": "Burger Bacon",
+        "precio": "1400"
+    },
+    {
+        "nombre": "Doble Cuarto",
+        "precio": "1200"
+    }
+]
